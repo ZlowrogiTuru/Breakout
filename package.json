@@ -8,6 +8,7 @@
     "react-game-kit": "0.0.2"
   },
   "devDependencies": {
+    "eslint-config-standard-react": "^5.0.0",
     "react-scripts": "1.0.7"
   },
   "scripts": {
